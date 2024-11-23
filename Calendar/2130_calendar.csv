@@ -1,0 +1,25 @@
+Date;Sections;Topic;Assignment;;Exams
+Tue, July 6;1.1, 1.2;Systems of Equations;OPEN: HW1;;
+Wed, July 7;2.1.1-2.1.8;Matrix Arithmetic, Transposes, Inverses;OPEN: HW2;DUE: HW1;
+Thu, July 8;2.1.9-2.1.10, 2.2;Elementary Matrices, LU Factorization;OPEN: HW3, HW4;DUE: HW2;
+Fri, July 9;4.1, 4.2;Vectors and Vector Algebra in R^n;OPEN: HW5;DUE: HW3;Exam 1
+Mon, July 12;4.3, 4.4, 4.5 ;Geometry of Vectors and vector Operations;OPEN: HW6;;
+Tue, July 13;4.7, 4.10;The Dot Product;OPEN: HW7;DUE: HW4, HW5;
+Wed, July 14;4.10;Spanning Sets, Linear Independence, and Basis;OPEN: HW8;DUE: HW6;
+Thu, July 15;4.10;Spanning Sets, Linear Independence, and Basis;;DUE: HW7;
+Fri, July 16;5.1;Linear Transformations;OPEN: HW9;DUE: HW8;Exam 2
+Mon, July 19;5.2;Matrix of a Linear Transformation;;;
+Tue, July 20;5.3, 5.4;Properties of Linear Transformations;;DUE: HW9;
+Wed, July 21;5.5, 5.6, 5.7;Kernels and Isomorphisms;OPEN: HW10;;
+Thu, July 22;5.8, 5.9;Solutions to Linear Systems;;;
+Fri, July 23;3.1;Determinants ;OPEN: HW11;DUE: HW10;Exam 3
+Mon, July 26;3.2;Applications of Determinants;;;
+Tue, July 27;3.2;Applications of Determinants;;;
+Wed, July 28;7.1;Eigenvalues and Eigenvectors;OPEN: HW12;DUE: HW11;
+Thu, July 29;7.1;Eigenvalues and Eigenvectors;;;
+Fri, July 30;7.2;Diagonalization;;;Exam 4
+Mon, August 2;7.3;Applications of Spectral Theory;;;
+Tue, August 3;4.11;Orthogonality and the Gram-Schidt Process;;DUE: HW12;
+Wed, August 4;4.11;Orthogonality and the Gram-Schidt Process;;;
+Thu, August 5;4.11;Orthogonality and the Gram-Schidt Process;;;
+Fri, August 6;Final;Cumulative;;;Final Exam 
